@@ -1,0 +1,14 @@
+{
+  "name": "lerna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+     "packages/*"
+  ],
+  "author": "manojvicky",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
